@@ -21,3 +21,9 @@ img {
 .xxx {
   display: inline-block;
 }
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
