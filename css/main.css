@@ -8,3 +8,15 @@ img {
     margin-top: 60px;
     margin-bottom: 60px;
 }
+
+/* Gray Scale */
+.gray figure img {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: 0.3s ease-in-out;
+	transition: 0.3s ease-in-out;
+}
+.gray figure:hover img {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
