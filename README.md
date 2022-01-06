@@ -1,3 +1,3 @@
 # https://greeeentea.github.io/ 
 
-*used as a personal photography portfolio website*
+*used as my personal photography portfolio website*
