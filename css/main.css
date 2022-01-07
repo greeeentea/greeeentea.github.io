@@ -40,4 +40,8 @@ html, body {
     display: table-cell;
     height: 100%;
     vertical-align: middle;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
