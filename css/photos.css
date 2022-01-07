@@ -1,1 +1,30 @@
+img {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Gray Scale */
+.gray figure img {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: 0.3s ease-in-out;
+	transition: 0.3s ease-in-out;
+}
+.gray figure:hover img {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
+
+/* side by side */
+.xxx {
+  display: inline-block;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
