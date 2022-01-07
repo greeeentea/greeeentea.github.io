@@ -31,4 +31,5 @@ body {
 .content {
   max-width: 500px;
   margin: auto;
+  vertical-align: middle;
 }
