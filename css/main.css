@@ -18,12 +18,11 @@ html, body {
     justify-content: center;
 }
 .ti {    
-    letter-spacing: 2px;
     text-align: center;
-    color: #E1F700;
-    font-size: 275px; 
+    color: #C5FF00;
+    font-size: 350px; 
     font-weight: bold; 
-    letter-spacing: 30px; 
+    letter-spacing: 40px; 
     line-height: 1;
 } 
 .links { 
