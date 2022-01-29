@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- link to main stylesheet -->
+  <link rel="stylesheet" type="text/css" href="/css/photos.css">
+  <title>photos</title>
+
+</head>
+
+<body>
+
+  <div class="gray">   
+    <figure class="xxx"><img src="https://live.staticflickr.com/65535/51849977950_04f80b86d4_w.jpg" width="300"
+        height="400" /></figure>
+    <figure class="xxx"><img src="https://live.staticflickr.com/65535/51848361658_efcd2da45e_w.jpg" width="300"
+        height="400" /></figure>
+    <figure class="xxx"><img src="https://live.staticflickr.com/65535/51847327112_781fc2b0ca_w.jpg" width="300"
+        height="400" /></figure>
+    <figure class="xxx"><img src="https://live.staticflickr.com/65535/51848361668_6d6bc086d6_w.jpg" width="300"
+        height="400" /></figure>
+  </div>
+
+</body>
+
+</html>
