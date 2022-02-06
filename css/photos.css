@@ -32,3 +32,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+/*go back button etc*/
+.upperleft {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300px;
+}
