@@ -11,7 +11,6 @@ img {
 .gray figure img {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
-    filter: invert(500%);
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
 }
@@ -20,6 +19,21 @@ img {
     -webkit-filter: grayscale(0);
     filter: grayscale(0);
 }
+
+/* Invert */
+
+.invert figure img {
+    -webkit-filter: invert(500%);
+    filter: invert(500%);
+    -webkit-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+}
+
+.invert figure:hover img {
+    -webkit-filter: invert(0);
+    filter: invert(0);
+}
+
 
 
 /* side by side */
