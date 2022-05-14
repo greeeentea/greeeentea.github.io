@@ -2,13 +2,13 @@ html,
 body {
     height: 100%;
     align-items: center;
+    cursor: url("https://raw.githubusercontent.com/greeeentea/greeeentea.github.io/main/images/sun.png"),auto;
 }
 
 .main {
     height: 100%;
     width: 100%;
     display: table;
-    cursor: url("https://raw.githubusercontent.com/greeeentea/greeeentea.github.io/main/images/sun.png"),auto;
 }
 
 .wrapper {
