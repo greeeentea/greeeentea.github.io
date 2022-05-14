@@ -43,6 +43,8 @@ a:visited {
 
 a:hover {
     color: #b3ff99;
+    letter-spacing: 3px;
+    font-size: 33px;
 }
 
 a:active {
