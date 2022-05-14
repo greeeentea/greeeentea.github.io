@@ -23,8 +23,8 @@ img {
 /* Invert */
 
 .invert figure img {
-    -webkit-filter: invert(500%);
-    filter: invert(500%);
+    -webkit-filter: invert(50%);
+    filter: invert(50%);
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
 }
