@@ -1,82 +1,80 @@
-img {
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+html {
+  cursor: url("https://raw.githubusercontent.com/greeeentea/greeeentea.github.io/main/images/flower.png"),
+    auto;
 }
 
+img {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 
 /* Gray Scale */
 
 .gray figure img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 .gray figure:hover img {
-    -webkit-filter: grayscale(0);
-    filter: grayscale(0);
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
 }
 
 /* Invert */
 
 .invert figure img {
-    -webkit-filter: invert(50%);
-    filter: invert(50%);
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
+  -webkit-filter: invert(50%);
+  filter: invert(50%);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 .invert figure:hover img {
-    -webkit-filter: invert(0);
-    filter: invert(0);
+  -webkit-filter: invert(0);
+  filter: invert(0);
 }
-
-
 
 /* side by side */
 
 .xxx {
-    display: inline-block;
+  display: inline-block;
 }
 
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-
-/*go back button etc*/
+/* left corner mini menu*/
 
 .upperleft {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 300px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300px;
 }
 
-
 a {
-    color: #E1F700;
-    letter-spacing: -7px;
-    font-size: 30px;
-    
+  color: #e1f700;
+  letter-spacing: -7px;
+  font-size: 30px;
 }
 
 a:visited {
-    color: #b3ff99;
-    
+  color: #b3ff99;
 }
 
 a:hover {
-    color: hotpink;
-    letter-spacing: 3px;
-    font-size: 33px;
+  color: hotpink;
+  letter-spacing: 3px;
+  font-size: 33px;
 }
 
 a:active {
-    color: #cc0066;
+  color: #cc0066;
 }

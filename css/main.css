@@ -1,52 +1,53 @@
 html,
 body {
-    height: 100%;
-    align-items: center;
-    cursor: url("https://raw.githubusercontent.com/greeeentea/greeeentea.github.io/main/images/sun.png"),auto;
+  height: 100%;
+  align-items: center;
+  cursor: url("https://raw.githubusercontent.com/greeeentea/greeeentea.github.io/main/images/sun.png"),
+    auto;
 }
 
 .main {
-    height: 100%;
-    width: 100%;
-    display: table;
+  height: 100%;
+  width: 100%;
+  display: table;
 }
 
 .wrapper {
-    vertical-align: middle;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #E1F700;
+  vertical-align: middle;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #e1f700;
 }
 
 .ti {
-    text-align: center;
-    font-size: 350px;
-    font-weight: bold;
-    letter-spacing: 40px;
-    line-height: 1;
+  text-align: center;
+  font-size: 350px;
+  font-weight: bold;
+  letter-spacing: 40px;
+  line-height: 1;
 }
 
 .links {
-    font-size: 30px;
-    letter-spacing: -3px;
+  font-size: 30px;
+  letter-spacing: -3px;
 }
 
 a {
-    color: hotpink;
+  color: hotpink;
 }
 
 a:visited {
-    color: #cc0066;
+  color: #cc0066;
 }
 
 a:hover {
-    color: #b3ff99;
-    letter-spacing: 3px;
-    font-size: 33px;
+  color: #b3ff99;
+  letter-spacing: 3px;
+  font-size: 33px;
 }
 
 a:active {
-    color: #E1F700;
+  color: #e1f700;
 }
