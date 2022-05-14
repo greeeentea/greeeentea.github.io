@@ -36,3 +36,11 @@ body {
 a {
     color: hotpink;
 }
+
+a:hover {
+    color: #b3ff99;
+}
+
+a:visited {
+    color: #cc0066;
+}
