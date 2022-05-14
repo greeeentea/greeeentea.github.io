@@ -12,18 +12,16 @@ body {
 }
 
 .wrapper {
-    display: table-cell;
-    height: 100%;
     vertical-align: middle;
     margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #E1F700;
 }
 
 .ti {
     text-align: center;
-    color: #C5FF00;
     font-size: 350px;
     font-weight: bold;
     letter-spacing: 40px;
@@ -32,10 +30,9 @@ body {
 
 .links {
     font-size: 30px;
-    color: #E1F700;
     letter-spacing: -3px;
-    font-weight: 300;
-    line-height: 32px;
-    margin: 0 0 72px;
-    text-align: center;
+}
+
+a {
+    color: hotpink;
 }
