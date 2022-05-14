@@ -38,3 +38,7 @@ body {
     margin: 0 0 72px;
     text-align: center;
 }
+
+.custom {
+  cursor: url(images/sun.png), auto;
+}
