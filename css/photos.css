@@ -57,3 +57,26 @@ body {
     left: 0;
     width: 300px;
 }
+
+
+a {
+    color: #E1F700;
+    letter-spacing: -7px;
+    font-size: 30px;
+    
+}
+
+a:visited {
+    color: #b3ff99;
+    
+}
+
+a:hover {
+    color: hotpink;
+    letter-spacing: 3px;
+    font-size: 33px;
+}
+
+a:active {
+    color: #cc0066;
+}
