@@ -37,10 +37,14 @@ a {
     color: hotpink;
 }
 
+a:visited {
+    color: #cc0066;
+}
+
 a:hover {
     color: #b3ff99;
 }
 
-a:visited {
-    color: #cc0066;
+a:active {
+    color: #E1F700;
 }
