@@ -2,6 +2,7 @@ html,
 body {
     height: 100%;
     align-items: center;
+    cursor: url(images/sun.png), auto;
 }
 
 .main {
@@ -37,8 +38,4 @@ body {
     line-height: 32px;
     margin: 0 0 72px;
     text-align: center;
-}
-
-.custom {
-  cursor: url(images/sun.png), auto;
 }
