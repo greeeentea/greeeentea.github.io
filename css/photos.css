@@ -78,3 +78,34 @@ a:hover {
 a:active {
   color: #cc0066;
 }
+
+/* upper rigth*/
+
+.rotate {
+  width: 25px;
+  transform: rotate(90deg);
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.round {
+  background-color: #e8f300;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.round:hover {
+  background-color: white;
+}
