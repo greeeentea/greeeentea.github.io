@@ -63,6 +63,7 @@ a {
   color: #e1f700;
   letter-spacing: -7px;
   font-size: 30px;
+  text-decoration: none;
 }
 
 a:visited {
