@@ -66,10 +66,6 @@ a {
   text-decoration: none;
 }
 
-a:visited {
-  color: #b3ff99;
-}
-
 a:hover {
   color: hotpink;
   letter-spacing: 3px;
