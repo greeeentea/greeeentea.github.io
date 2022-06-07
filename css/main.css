@@ -12,27 +12,22 @@ body {
   display: table;
 }
 
-.wrapper {
-  vertical-align: middle;
-  margin: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #e1f700;
-}
 
-.ti {
+h1 {
   text-align: center;
-  font-size: 350px;
+  font-size: 200px;
   font-weight: bold;
   letter-spacing: 40px;
   line-height: 1;
+  color: #e1f700;
 }
 
 .links {
   font-size: 30px;
   letter-spacing: -3px;
+  text-align: center;
 }
+
 
 a {
   color: hotpink;
