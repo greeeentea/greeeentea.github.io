@@ -34,9 +34,6 @@ a {
   text-decoration: none;
 }
 
-a:visited {
-  color: #cc0066;
-}
 
 a:hover {
   color: #b3ff99;
