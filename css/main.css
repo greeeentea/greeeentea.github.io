@@ -1,47 +1,66 @@
 html,
 body {
-  height: 100%;
-  align-items: center;
-  cursor: url("https://raw.githubusercontent.com/greeeentea/greeeentea.github.io/main/images/sun.png"),
-    auto;
+    height: 100%;
+    align-items: center;
+    cursor: url("https://raw.githubusercontent.com/greeeentea/greeeentea.github.io/main/images/sun.png"), auto;
 }
 
 .main {
-  height: 100%;
-  width: 100%;
-  display: table;
+    height: 100%;
+    width: 100%;
+    display: table;
 }
 
+.ti {
+    text-align: center;
+    font-size: 300px;
+    font-weight: bold;
+    letter-spacing: 40px;
+    line-height: 1;
+    color: hotpink;
+    font-family: "Pacifico";
+}
 
-.ti{
-  text-align: center;
-  font-size: 300px;
-  font-weight: bold;
-  letter-spacing: 40px;
-  line-height: 1;
-  color: #e1f700;
-  font-family: 'Pacifico'
+.tii {
+    text-align: center;
+    font-size: 300px;
+    font-weight: bold;
+    letter-spacing: 40px;
+    line-height: 1;
+    color: #e1f700;
+    font-family: "Pacifico";
+    margin-top: -300px;
 }
 
 .links {
-  font-size: 30px;
-  letter-spacing: -3px;
-  text-align: center;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Pacifico";
 }
 
+p {
+    color: #6fcbd6;
+    margin-bottom: -10px;
+}
+
+hr {
+    background-color: #b3ff99;
+    height: 2px;
+    border-width: 0;
+}
 
 a {
-  color: hotpink;
-  text-decoration: none;
+    letter-spacing: -3px;
+    color: hotpink;
+    text-decoration: none;
 }
 
-
 a:hover {
-  color: #b3ff99;
-  letter-spacing: 3px;
-  font-size: 33px;
+    color: #b3ff99;
+    letter-spacing: 3px;
+    font-size: 33px;
 }
 
 a:active {
-  color: #e1f700;
+    color: #e1f700;
 }
